@@ -69,7 +69,7 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 20
           plugin_people_types: followers, following, stargazers, watchers
-          plugin_skyline: yes
+          plugin_skyline: no
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.8
           plugin_skyline_year: current-year
