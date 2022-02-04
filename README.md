@@ -15,8 +15,6 @@
   <a href="https://api.whatsapp.com/send/?phone=55044999445880&text&app_absent=0" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-green.svg?logo=whatsapp&logoColor=white"></a>
 </p>
 
-
-        
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -77,27 +75,5 @@
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=PrimOox&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br&&hide=stars,contribs"/></a>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 </div>
- 
-<div align="center">
-    <a href="https://github.com/search?q=user%3APrimOox&type=repositories">
-        <img height="240em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimOox&langs_count=8&theme=chartreuse-dark&hide_border=true&locale=pt-br&layout=compact"/></a>
-    <a href="https://wakatime.com/@PrimOox">
-        <img height="240em"
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=PrimOox&theme=chartreuse-dark&hide_border=true&locale=pt-br"/></a>
-</div>
-</div>
-
-<img align="center" src="/github-metrics.svg" alt="Metrics">
-
-<!--
-![Metrics](https://metrics.lecoq.io/PrimOox?template=classic&isocalendar=1&languages=1&topics=1&stars=1&habits=1&activity=1&achievements=1&lines=1&traffic=1&starlists=1&music=1&wakatime=1&fortune=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage%2C%20lines&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming%2C%20data&languages.recent.categories=markup%2C%20programming%2C%20data&languages.recent.load=300&languages.recent.days=14&topics.mode=icons&topics.sort=stars&topics.limit=15&stars.limit=4&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&people.limit=24&people.identicons=false&people.size=20&people.types=followers%2C%20following%2C%20stargazers%2C%20watchers&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&starlists.limit=2&starlists.limit.repositories=2&starlists.shuffle.repositories=true&music.provider=spotify&music.mode=playlist&music.playlist=https%3A%2F%2Fopen.spotify.com%2Fembed%2Fplaylist%2F2qLQbohYDlhz0Oe8pXaMAG%3Futm_source%3Dgenerator&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&music.user=primosource&wakatime.days=30&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=PrimOox&config.timezone=America%2FSao_Paulo)
--->
-
-
