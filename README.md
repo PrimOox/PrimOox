@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1 align="center">Hi there! I'm Diego de Oliveira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="center">Hi there! I'm Diego <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="25px"></h1>
 <h3 align="center">Currently studying Data Engineering.</h3>
 <h3 align="center">Security enthusiast!</h3>
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/primosource/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white"></a>
   <a href="mailto:diego_oliveira_alves@hotmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-0078d7.svg?logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://t.me/primosource" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue.svg?logo=telegram&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send/?phone=55044999445880&text&app_absent=0" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-green.svg?logo=whatsapp&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send/?phone=55044999445880&text&app_absent=0" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-green.svg?logo=whatsapp&logoColor=white"></a>
 </p>
 
 ## 🛠️ My favorite tools
