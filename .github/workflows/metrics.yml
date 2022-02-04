@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 */6 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -69,14 +69,6 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 20
           plugin_people_types: followers, following, stargazers, watchers
-          plugin_skyline: no
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.8
-          plugin_skyline_year: current-year
-          plugin_starlists: no
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
