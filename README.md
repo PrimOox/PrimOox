@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PrimOox.PrimOox&color=black)
+<a href="#"><img alt="Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PrimOox.PrimOox&color=black"></a>
 
 <div align="center">
 
