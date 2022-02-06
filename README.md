@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=PrimOox.PrimOox&left_color=green&right_color=#231abd" alt="visitor badge"/>
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PrimOox.PrimOox&color=black)
 
 <div align="center">
 
