@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">Hi there! I'm Diego 🤙</h1>
-<h3 align="center">Data Engineering and Security enthusiast!</h3>
+<h3 align="center">Data Engineering, DevOps and Security enthusiast!</h3>
 
 <h2 align="center">Connect with me:</h2>
 
