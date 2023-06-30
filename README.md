@@ -1,5 +1,5 @@
 <!--- <a href="#"><img alt="Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PrimOox.PrimOox&color=black"></a> --->
-![](https://vbr.wocr.tk/badge?page_id=PrimOox.PrimOox&color=590d22&style=for-the-badge&logo=Github&hit=false)  
+![](https://vbr.wocr.tk/badge?page_id=PrimOox-PrimOox&lcolor=000&color=fff&style=flat&logo=Github&text=Page&nbsp;Views)  
 
 <div align="center">
 
