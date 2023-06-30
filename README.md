@@ -1,6 +1,5 @@
 <!--- <a href="#"><img alt="Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PrimOox.PrimOox&color=black"></a> --->
-![](https://vbr.wocr.tk/badge?page_id=PrimOox-PrimOox&lcolor=000&color=fff&style=flat&logo=Github&text=Page&nbsp;Views)  
-
+<a href="#"><img alt="Visitors" src="https://vbr.wocr.tk/badge?page_id=PrimOox-PrimOox&lcolor=000&color=fff&style=flat&logo=Github&text=Page&nbsp;Views"></a>
 <div align="center">
 
 <h1 align="center">Hi there! I'm Diego 🤙</h1>
@@ -75,8 +74,6 @@
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
-
 ---
-
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 </div>
