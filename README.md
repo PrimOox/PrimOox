@@ -74,6 +74,6 @@
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
----
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 </div>
