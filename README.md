@@ -1,4 +1,3 @@
-<!--- <a href="#"><img alt="Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PrimOox.PrimOox&color=black"></a> --->
 <a href="#"><img alt="Visitors" src="https://vbr.wocr.tk/badge?page_id=PrimOox-PrimOox&lcolor=000&color=fff&style=flat&logo=Github&text=Page&nbsp;Views"></a>
 <div align="center">
 
@@ -77,3 +76,4 @@
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 </div>
+<!-- <a href="#"><img alt="Visitors" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=PrimOox.PrimOox&color=black"></a> -->
