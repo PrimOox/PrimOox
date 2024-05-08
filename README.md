@@ -1,4 +1,4 @@
-<a href="#"><img alt="Visitors" src="https://vbr.wocr.tk/badge?page_id=PrimOox-PrimOox&lcolor=000&color=fff&style=flat&logo=Github&text=Page&nbsp;Views"></a>
+<!-- <a href="#"><img alt="Visitors" src="https://vbr.wocr.tk/badge?page_id=PrimOox-PrimOox&lcolor=000&color=fff&style=flat&logo=Github&text=Page&nbsp;Views"></a> -->
 <div align="center">
 
 <h1 align="center">Hi there! I'm Diego 🤙</h1>
