@@ -62,7 +62,7 @@ jobs:
           plugin_music_mode: playlist
           plugin_music_token: "ac860741b98e492bb9b48227d2c58831, b2968df3bada4fc882747024ec63528c, AQAQU3oeSZ0su_13GCwYsKy0F8CSZfZlNgRsEWYWiJ1TrEWKZIXzno_UYX3aAk0psMRkWKNB5SBRsQ83iJx41afGhtKaliXldea81vZaa8l0N-NVHRSFNcp0seoIZW4a_uo"
           plugin_music_playlist: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2qLQbohYDlhz0Oe8pXaMAG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-          # plugin_music_provider: spotify
+          plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: primosource
